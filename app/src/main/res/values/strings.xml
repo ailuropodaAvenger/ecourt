@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">ই আদালত</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Decline to State</item>
+    </string-array>
+
+    <string-array name="complain_subject">
+        <item>মাদক</item>
+        <item>পরিবেশ</item>
+        <item>মৎস্য</item>
+        <item>ইভটিজিং</item>
+        <item>বাল্য বিবাহ</item>
+        <item>দ্রব্য মূল্য </item>
+        <item>ভূমি ও জলাশয়</item>
+        <item>পরিবহন ও যোগাযোগ</item>
+        <item>ঔষধ ও চিকিৎসা</item>
+        <item>শিক্ষা সংক্রান্ত </item>
+        <item>নিম্নমানের খাদ্য ও প্রসাধনী </item>
+        <item>বীজ ও সার</item>
+        <item>নির্বাচন</item>
+        <item>স্বাস্থ্য সংক্রান্ত</item>
+        <item>লাইসেন্স সংক্রান্ত</item>
+        <item>ভেজাল</item>
+        <item>দুষিত খাদ্য</item>
+        <item>অগ্নি প্রতিরোধ </item>
+        <item>বিদ্যুৎ সংক্রান্ত</item>
+        <item>পাটজাত দ্রব্য</item>
+        <item>মেয়াদ উত্তীর্ণ পণ্য</item>
+        <item>ওজনে কম</item>
+        <item>প্যাকেটজাত পণ্য</item>
+    </string-array>
+
+    <string-array name="month_arrays">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="division">
+        <item>বরিশাল</item>
+        <item>চট্টগ্রাম</item>
+        <item>ঢাকা</item>
+        <item>খুলনা</item>
+        <item>রাজশাহী</item>
+        <item>রংপুর</item>
+        <item>সিলেট</item>
+        <item>ময়মনসিংহ</item>
+    </string-array>
+
+    <string-array name="dhaka_ziila">
+        <item>ঢাকা</item>
+        <item>ফরিদপুর</item>
+        <item>গাজীপুর</item>
+        <item>গোপালগঞ্জ</item>
+        <item>কিশোরগঞ্জ</item>
+        <item>মাদারীপুর</item>
+        <item>মানিকগঞ্জ</item>
+        <item>মুন্সিগঞ্জ</item>
+        <item>নারায়ণগঞ্জ</item>
+        <item>নরসিংদী</item>
+        <item>রাজবাড়ী</item>
+        <item>শরীয়তপুর</item>
+        <item>টাঙ্গাইল</item>
+    </string-array>
+    
+    <string-array name="upzilla">
+        <item>ভোলা সদর</item>
+        <item>বোরহানউদ্দীন</item>
+        <item>চর ফ্যাশন</item>
+        <item>দৌলত খান</item>
+        <item>লালমোহন</item>
+        <item>মনপুরা</item>
+        <item>তজুমদ্দিন</item>
+    </string-array>
+</resources>
